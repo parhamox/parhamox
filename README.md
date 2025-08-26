@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 ## About Me<br><br> a passionate **Backend Developer** who thrives on diving deep into the vast ocean of technology and staying up-to-date with the latest innovations. I constantly strive to expand my knowledge, embrace new challenges, and enhance my professional skills.<br><br> **What drives me?**<br>- The joy of learning cutting-edge technologies and implementing them effectively.<br>- A relentless pursuit of career growth and excellence in my field.<br>- A deep passion for my work and a strong commitment to consistency and perseverance in everything I do.<br><br> Whether it's architecting robust back-end systems, optimizing APIs, or exploring new tools, I'm always eager to push boundaries and deliver impactful solutions.<br><br>Let’s connect and build something amazing together!<br>
 
 
