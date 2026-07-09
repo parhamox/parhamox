@@ -41,17 +41,16 @@ https://parhammahmoudii.ir
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
+### 🎯 Interests
 
-### Interests
-
-* Software Architecture
-* Scalable Systems
-* Backend Engineering
-* Artificial Intelligence
-* API Design
-* Database Optimization
-* Product Development
-* Automation
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-0F172A?style=for-the-badge&logo=architecture&logoColor=white)
+![Scalable Systems](https://img.shields.io/badge/Scalable%20Systems-2563EB?style=for-the-badge)
+![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-4F46E5?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![API Design](https://img.shields.io/badge/API%20Design-0891B2?style=for-the-badge)
+![Database Optimization](https://img.shields.io/badge/Database%20Optimization-0F766E?style=for-the-badge)
+![Product Development](https://img.shields.io/badge/Product%20Development-EA580C?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-16A34A?style=for-the-badge)
 
 ##
 
